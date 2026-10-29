@@ -1,0 +1,16 @@
+# model weights and data
+data/*
+!data/README.md
+*.safetensors
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# editor / OS
+.idea/
+.vscode/
+.DS_Store
